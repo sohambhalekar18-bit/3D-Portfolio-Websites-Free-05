@@ -1,43 +1,10 @@
 <a name="readme-top"></a>
 
-# Modern Space Theme Portfolio using Next.js 14 and Three.js
+# Soham Bhalekar – Space Portfolio
+
+Personal portfolio website built using Next.js 14 and Three.js.
 
 ![Modern Space Theme Portfolio using Next.js 14 and Three.js](/.github/images/img_main.png "Modern Space Theme Portfolio using Next.js 14 and Three.js")
-
-[![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy "Ask Me Anything!")
-[![GitHub license](https://flat.badgen.net/github/license/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/commits/main "Maintenance")
-[![GitHub branches](https://flat.badgen.net/github/branches/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/branches "GitHub branches")
-[![Github commits](https://flat.badgen.net/github/commits/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/commits "Github commits")
-[![GitHub issues](https://flat.badgen.net/github/issues/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/issues "GitHub issues")
-[![GitHub pull requests](https://flat.badgen.net/github/prs/sanidhyy/space-portfolio?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/space-portfolio/pulls "GitHub pull requests")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/451ed0e0-3541-474e-896a-4987e30a7722/deploy-status)](https://spaceportfolio.netlify.app/ "Netlify Status")
-
-<!-- Table of Contents -->
-<details>
-
-<summary>
-
-# :notebook_with_decorative_cover: Table of Contents
-
-</summary>
-
-- [Folder Structure](#bangbang-folder-structure)
-- [Getting Started](#toolbox-getting-started)
-- [Screenshots](#camera-screenshots)
-- [Tech Stack](#gear-tech-stack)
-- [Stats](#wrench-stats)
-- [Contribute](#raised_hands-contribute)
-- [Acknowledgements](#gem-acknowledgements)
-- [Buy Me a Coffee](#coffee-buy-me-a-coffee)
-- [Follow Me](#rocket-follow-me)
-- [Learn More](#books-learn-more)
-- [Deploy on Vercel](#page_with_curl-deploy-on-vercel)
-- [Give A Star](#star-give-a-star)
-- [Star History](#star2-star-history)
-- [Give A Star](#star-give-a-star)
-
-</details>
 
 ## :bangbang: Folder Structure
 
@@ -111,21 +78,108 @@ space-portfolio/
 
 ![Showcase your projects](/.github/images/img4.png "Showcase your projects")
 
-## :gear: Tech Stack
+## 🛠 Tech Stack
 
-[![React JS](https://skillicons.dev/icons?i=react "React JS")](https://react.dev/ "React JS") [![Next JS](https://skillicons.dev/icons?i=next "Next JS")](https://nextjs.org/ "Next JS") [![Typescript](https://skillicons.dev/icons?i=ts "Typescript")](https://www.typescriptlang.org/ "Typescript") [![Tailwind CSS](https://skillicons.dev/icons?i=tailwind "Tailwind CSS")](https://tailwindcss.com/ "Tailwind CSS") [![Netlify](https://skillicons.dev/icons?i=netlify "Netlify")](https://netlify.app/ "Netlify") [![Three.js](https://skillicons.dev/icons?i=threejs "Three.js")](https://threejs.org/ "Three.js")
+This portfolio project is built using modern and industry-relevant technologies:
 
-## :wrench: Stats
+- **Next.js 14** – React framework for performance and scalability  
+- **TypeScript** – Type-safe JavaScript for better code quality  
+- **Tailwind CSS** – Utility-first CSS for fast and responsive UI  
+- **Three.js** – 3D graphics and animations  
+- **Framer Motion** – Smooth UI animations  
+- **Netlify** – Deployment and hosting  
 
-[![Stats for Space Portfolio](/.github/images/stats.svg "Stats for Space Portfolio")](https://pagespeed.web.dev/analysis/https-spaceportfolio-netlify-app/2efbmg117d "Stats for Space Portfolio")
+The goal of this project is to demonstrate modern frontend skills, clean UI,
+and real-world project structure suitable for internships.
 
-## :raised_hands: Contribute
+---
 
-You might encounter some bugs while using this app. You are more than welcome to contribute. Just submit changes via pull request and I will review them before merging. Make sure you follow community guidelines.
+## 📊 Stats
 
-## :gem: Acknowledgements
+Performance and quality metrics of the deployed portfolio:
 
-Useful resources and dependencies that are used in Space Portfolio.
+- High performance and SEO score
+- Optimized assets and responsive layout
+- Accessible and best-practice compliant UI
+
+(Stats shown below are from the demo deployment.)
+
+---
+
+## 🤝 Contribute
+
+This is a **personal portfolio project** created for learning and showcasing skills.
+
+Suggestions, feedback, and improvements are welcome.
+If you find any issue or want to suggest enhancements, feel free to open an issue.
+
+---
+
+## 💎 Acknowledgements
+
+This project uses several excellent open-source libraries and tools:
+
+- Next.js  
+- React  
+- Three.js  
+- Tailwind CSS  
+- Framer Motion  
+- React Icons  
+
+Thanks to the open-source community for making learning and building easier.
+
+---
+
+## 🚀 Follow Me
+
+- **GitHub:** https://github.com/sohambhalekar18-bit  
+- **YouTube:** https://www.youtube.com/@SkillVector  
+- **LinkedIn:** https://www.linkedin.com/in/soham-bhalekar-145243331
+
+I share projects, learning resources, and development tips related to
+web development and tech careers.
+
+---
+
+## 📚 Learn More
+
+If you want to explore the technologies used in this project:
+
+- Next.js Documentation: https://nextjs.org/docs  
+- Learn Next.js: https://nextjs.org/learn  
+- Three.js: https://threejs.org  
+
+---
+
+## 🌐 Deployment
+
+This portfolio can be deployed using platforms like **Netlify** or **Vercel**.
+
+The live demo shown in screenshots is for reference purposes.
+You can deploy your own customized version easily using GitHub integration.
+
+---
+
+## ⭐ Give a Star
+
+If you find this project useful or inspiring, consider giving it a ⭐  
+It helps support open-source development.
+
+---
+
+## 📈 Star History
+
+(Star history shown below belongs to the original open-source project
+this portfolio is based on.)
+
+---
+
+## 🧾 Credits
+
+This portfolio is **customized from an open-source project** licensed under the MIT License.
+
+Original design and base implementation by **Sanidhya Kumar Verma**.  
+Customized and adapted for personal use by **Soham Bhalekar**.
 
 - [@heroicons/react](https://www.npmjs.com/package/@heroicons/react): ^2.1.1
 - [@react-three/drei](https://www.npmjs.com/package/@react-three/drei): ^9.93.0
