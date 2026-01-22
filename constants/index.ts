@@ -212,12 +212,7 @@ export const BACKEND_SKILL = [
     width: 70,
     height: 70,
   },
-  {
-    skill_name: "Graphql",
-    image: "graphql.png",
-    width: 80,
-    height: 80,
-  },
+  
 ] as const;
 
 export const FULLSTACK_SKILL = [
@@ -233,12 +228,6 @@ export const FULLSTACK_SKILL = [
     width: 70,
     height: 70,
   },
-  {
-    skill_name: "Docker",
-    image: "docker.png",
-    width: 70,
-    height: 70,
-  },
 
   {
     skill_name: "Figma",
@@ -248,14 +237,6 @@ export const FULLSTACK_SKILL = [
   },
 ] as const;
 
-export const OTHER_SKILL = [
-  {
-    skill_name: "Go",
-    image: "go.png",
-    width: 60,
-    height: 60,
-  },
-] as const;
 
 export const PROJECTS = [
   {
