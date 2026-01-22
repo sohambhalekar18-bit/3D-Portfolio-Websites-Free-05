@@ -8,9 +8,8 @@ import {
 } from "react-icons/rx";
 
 /* ======================================================
-   MAIN SKILLS (TOP / BEST POSITION – YOUR IDENTITY)
-   ====================================================== */
-
+   HERO / MAIN SKILLS (TOP PRIORITY)
+====================================================== */
 export const SKILL_DATA = [
   {
     skill_name: "React",
@@ -19,7 +18,7 @@ export const SKILL_DATA = [
     height: 80,
   },
   {
-    skill_name: "Next.js",
+    skill_name: "Next.js 14",
     image: "next.png",
     width: 80,
     height: 80,
@@ -27,8 +26,8 @@ export const SKILL_DATA = [
   {
     skill_name: "JavaScript",
     image: "js.png",
-    width: 70,
-    height: 70,
+    width: 65,
+    height: 65,
   },
   {
     skill_name: "HTML",
@@ -51,22 +50,50 @@ export const SKILL_DATA = [
 ] as const;
 
 /* ======================================================
-   FRONTEND SKILLS
-   ====================================================== */
-
+   FRONTEND
+====================================================== */
 export const FRONTEND_SKILL = [
   {
-    skill_name: "TypeScript",
-    image: "ts.png",
+    skill_name: "React",
+    image: "react.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Next.js",
+    image: "next.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "JavaScript",
+    image: "js.png",
+    width: 65,
+    height: 65,
+  },
+  {
+    skill_name: "HTML",
+    image: "html.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "CSS",
+    image: "css.png",
+    width: 80,
+    height: 80,
+  },
+  {
+    skill_name: "Tailwind CSS",
+    image: "tailwind.png",
     width: 80,
     height: 80,
   },
 ] as const;
 
 /* ======================================================
-   BACKEND SKILLS
-   ====================================================== */
-
+   BACKEND
+====================================================== */
 export const BACKEND_SKILL = [
   {
     skill_name: "Node.js",
@@ -83,8 +110,8 @@ export const BACKEND_SKILL = [
   {
     skill_name: "MongoDB",
     image: "mongodb.png",
-    width: 50,
-    height: 50,
+    width: 40,
+    height: 40,
   },
   {
     skill_name: "Firebase",
@@ -95,9 +122,8 @@ export const BACKEND_SKILL = [
 ] as const;
 
 /* ======================================================
-   TOOLS / PLATFORM SKILLS (LEVEL 2 – EASY & VALID)
-   ====================================================== */
-
+   TOOLS / LEVEL 2
+====================================================== */
 export const FULLSTACK_SKILL = [
   {
     skill_name: "Git",
@@ -114,35 +140,66 @@ export const FULLSTACK_SKILL = [
   {
     skill_name: "Figma",
     image: "figma.png",
-    width: 55,
-    height: 55,
+    width: 50,
+    height: 50,
   },
   {
     skill_name: "Vercel",
     image: "vercel.png",
-    width: 55,
-    height: 55,
+    width: 60,
+    height: 60,
   },
 ] as const;
 
 /* ======================================================
-   PROJECTS (KEEP AS IS – YOU CAN EDIT LATER)
-   ====================================================== */
+   SOCIALS (FIXES NAVBAR ERROR)
+====================================================== */
+export const SOCIALS = [
+  {
+    name: "Instagram",
+    icon: RxInstagramLogo,
+    link: "https://instagram.com",
+  },
+  {
+    name: "Twitter",
+    icon: RxTwitterLogo,
+    link: "https://twitter.com",
+  },
+  {
+    name: "LinkedIn",
+    icon: RxLinkedinLogo,
+    link: "https://linkedin.com",
+  },
+  {
+    name: "GitHub",
+    icon: RxGithubLogo,
+    link: "https://github.com/sohambhalekar18-bit",
+  },
+] as const;
 
+/* ======================================================
+   PROJECTS
+====================================================== */
 export const PROJECTS = [
   {
-    title: "Modern Next.js Portfolio",
+    title: "AI Trip Planner",
     description:
-      "A modern 3D portfolio built with Next.js and Tailwind CSS.",
+      "AI-powered trip planning app with Firebase authentication and smart recommendations.",
     image: "/projects/project-1.png",
-    link: "#",
+    link: "https://github.com/sohambhalekar18-bit",
+  },
+  {
+    title: "Smart Resume Builder",
+    description:
+      "Internship-focused resume builder with admin control and Firebase backend.",
+    image: "/projects/project-2.png",
+    link: "https://github.com/sohambhalekar18-bit",
   },
 ] as const;
 
 /* ======================================================
-   FOOTER & SOCIALS
-   ====================================================== */
-
+   FOOTER
+====================================================== */
 export const FOOTER_DATA = [
   {
     title: "Community",
@@ -188,12 +245,20 @@ export const FOOTER_DATA = [
 
 /* ======================================================
    NAVIGATION
-   ====================================================== */
-
+====================================================== */
 export const NAV_LINKS = [
-  { title: "About me", link: "#about-me" },
-  { title: "Skills", link: "#skills" },
-  { title: "Projects", link: "#projects" },
+  {
+    title: "About me",
+    link: "#about-me",
+  },
+  {
+    title: "Skills",
+    link: "#skills",
+  },
+  {
+    title: "Projects",
+    link: "#projects",
+  },
 ] as const;
 
 export const LINKS = {
